@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chidu2000" alt="chidu2000" /></a> </p>
 
-- 🌱 I’m currently learning **Django , machine learning**
+- 🌱 I’m currently learning **Nodejs**
 
 - 💬 Ask me about **python ,networking,databases**
 
